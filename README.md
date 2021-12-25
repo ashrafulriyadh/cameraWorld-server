@@ -1,14 +1,14 @@
-# Drone House
+# Headphone World
 
-Project live link : [Drone House Website](https://drone-house.web.app/).
+Project live link : [Headphone World Website](https://headphone-world.web.app/).
 
 ## Website Details :
 
-This is a Drone Selling website. In this website , you find this features:
+This is a Headphone Selling website. In this website , you find this features:
 
 ### `Products`
 
-* We provide different kind of drones
+* We provide different kind of Headphone
 
 * We also provide best quality of product in the world
 
@@ -65,4 +65,3 @@ This is a Drone Selling website. In this website , you find this features:
 * Also testimonial of our reviewer's voice
 
 * There is also some common FAQ's answer
-
